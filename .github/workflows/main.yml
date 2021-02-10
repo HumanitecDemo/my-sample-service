@@ -30,3 +30,4 @@ jobs:
         with:
           humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
           organization: humanitec-tutorials
+          humanitec_api: https://staging-api.humanitec.io  
